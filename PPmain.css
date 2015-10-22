@@ -1,0 +1,67 @@
+li{
+	padding-bottom: 10px;
+}
+
+#header{
+	margin-left: 20px;	
+}
+
+.nav_bar{
+	float: left;
+	height: 500px;
+	width: 15%;
+	margin-top: 10px;
+	margin-left: 20px;
+	margin-right: 40px;	
+	border: solid black 1px;
+
+}
+
+.List{
+	list-style-type: none; 
+	padding-left: 8%;
+}
+
+.List > li{
+	font-size: 20px;
+}
+
+
+.Main_Content{ 
+	margin-right: 300px;
+	margin-top: 30px;
+	clear:right; 
+	margin-left: 270px;
+	
+}
+
+.Prod{
+	float:right;
+	width: 20%;
+    height: 20%;
+	margin-right: 20px;
+	margin-left: 20px;
+	border: solid black 1px; 
+}	
+
+.Prod > h5{
+	font-size: 15px;
+	padding-left: 20px;
+
+}
+
+.Prod_Grp{
+	width: 75%;
+	padding-right: 400px;
+	padding-bottom: 300px; 
+	padding-top: 30px;
+}
+
+
+.pp_img {
+	height:120px;
+	width: 150px;
+	padding-bottom: 10px;
+}
+
+
