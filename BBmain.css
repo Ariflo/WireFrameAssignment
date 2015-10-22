@@ -1,0 +1,62 @@
+.bear_words{
+	border: solid #000000 1px;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	margin-top: 25px;
+	width: 40%;
+	height: 95px;
+
+}
+
+.bear_words > div > div > p {
+	float: left;
+	padding-right: 50px;
+	padding-left: 10px;
+	margin-top: 0px;
+
+}
+
+.sm_sq{
+	float:left;
+	border:solid #000000 2px;
+	height: 5px;
+	width: 5px; 
+	margin-right: 0px;
+}
+
+.sm_sq_2{
+	float:left;
+	border:solid #000000 2px;
+	height: 5px;
+	width: 5px; 
+	margin-right: 0px;
+	margin-left: 50px;
+}
+
+h1{
+	margin-bottom: 0px;
+}
+
+.bear_words > img {
+	float: left;
+	height: 50px;
+	width:  100px;
+	padding-top: 10px; 
+}
+
+.bear_words > div {
+   float: left;
+   padding-right: 85px;
+   padding-bottom: 20px;
+   margin-left: 10px;
+   padding-right: 0px;
+
+}
+
+.bear_words > div > h3 {
+   margin-top: 10px;
+   margin-bottom: 40px;
+
+}
+
+
